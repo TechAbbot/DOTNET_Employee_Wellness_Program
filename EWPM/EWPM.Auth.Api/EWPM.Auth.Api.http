@@ -1,0 +1,6 @@
+@EWPM.Auth.Api_HostAddress = http://localhost:5219
+
+GET {{EWPM.Auth.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
